@@ -41,7 +41,7 @@ All data processing and ML modeling was done inside a single Jupyter Notebook:
 ## 🖼️ Dashboard Preview
 
 [![](screenshots/Customer_Insights_dashboard .png)](screenshots/Customer_Insights_dashboard .png)  
-[![](screenshots/Employee_Insights_dashboard.png)](screenshots/Employee_Insights_dashboard.png)
+[![](screenshots/Employee_insights_dashboard.png)](screenshots/Employee_insights_dashboard.png)
 
 ---
 
@@ -55,7 +55,7 @@ Holistic-BI-Telecom-Analysis/
 │   └── telecom_analysis.ipynb
 ├── screenshots/
 │   ├── Customer_Insights_dashboard .png
-│   └── Employee_Insights_dashboard.png
+│   └── Employee_insights_dashboard.png
 └── README.md
 ```
 
