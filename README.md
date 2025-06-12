@@ -40,8 +40,15 @@ All data processing and ML modeling was done inside a single Jupyter Notebook:
 
 ## 🖼️ Dashboard Preview
 
-[![](screenshots/Customer_Insights_dashboard.png)](<screenshots/Customer_Insights_dashboard.png>)  
-[![](screenshots/Employee_insights_dashboard.png)](<screenshots/Employee_insights_dashboard.png>)
+
+<a href="screenshots/Customer_Insights_dashboard.png">
+  <img src="screenshots/Customer_Insights_dashboard.png" width="600"/>
+</a>
+
+<a href="screenshots/Employee_insights_dashboard.png">
+  <img src="screenshots/Employee_insights_dashboard.png" width="600"/>
+</a>
+
 
 ---
 
