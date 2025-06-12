@@ -54,8 +54,8 @@ Holistic-BI-Telecom-Analysis/
 ├── notebooks/
 │   └── telecom_analysis.ipynb
 ├── screenshots/
-│   ├── screenshot_2012.png
-│   └── screenshot_all.png
+│   ├── Customer_Insights_dashboard.png
+│   └── Employee_Insights_dashboard.png
 └── README.md
 ```
 
